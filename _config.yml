@@ -1,6 +1,11 @@
 baseurl: /
 permalink: pretty
 markdown: kramdown
+
+plugins:
+  - jekyll-remote-theme
+remote_theme: daviddarnes/alembic@main
+
 prose:
   rooturl: '_posts'
   siteurl: 'https://onechippewa.org'
