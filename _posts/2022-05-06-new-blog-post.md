@@ -2,8 +2,6 @@
 layout: post
 category: blog
 published: true
-title: New blog post
+title: Recap on May 5th
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+As voters in the district are well aware, we did not pass either school levy
