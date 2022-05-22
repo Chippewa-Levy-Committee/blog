@@ -1,10 +1,28 @@
-baseurl: /
-permalink: pretty
-markdown: kramdown
+title:              "#OneChippewa"
+email:              chippewalevy@gmail.com
+description:        "#OneChippewa is a service of the Chippewa Levy Committee that provides insights into the Chippewa Local School district"
+author:             "#OneChippewa"
 
+# Social Profiles
+twitter_username:   
+github_username:    
+facebook_username: OurFutureIsNow 
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+#google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           3
+paginate_path:      "/posts/page:num/"
 plugins:
-  - jekyll-remote-theme
-remote_theme: daviddarnes/alembic@main
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+theme: jekyll-theme-clean-blog
 
 prose:
   rooturl: '_posts'
@@ -45,18 +63,3 @@ prose:
               value: "pears"
             - name: "Mangos"
               value: "mangos"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: blog
 published: true
 splash: 'http://placehold.it/1600x500'
