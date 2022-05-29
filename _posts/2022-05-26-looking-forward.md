@@ -3,6 +3,7 @@ layout: post
 category: blog
 published: true
 title: Looking forward
+background: ''
 ---
 As voters in the district are well aware, we did not pass either school levy. It's a hard pill to swallow for sure, but one that gives us all pause. 
 
@@ -57,7 +58,7 @@ Raw results of the post-mortem are available [here](https://docs.google.com/spre
 
 While we wait to hear on the plans for running a levy issue for the fall, there are two immediate actions we are taking.
 
-1) Starting this website, where we can speak more to the concerns and questions the community has.
-2) Doing a community survey to get a better sense of the feedback and concerns of the district residents.
+1. Starting this website, where we can speak more to the concerns and questions the community has.
+2. Doing a community survey to get a better sense of the feedback and concerns of the district residents.
 
 Look for more on both these topics in the coming weeks!
