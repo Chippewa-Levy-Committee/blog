@@ -3,7 +3,7 @@ layout: post
 category: blog
 published: true
 title: Looking forward
-background: ''
+background: /assets/mainheader.png
 ---
 As voters in the district are well aware, the school distruct did not pass either school levy. It's a hard pill to swallow for sure, but one that gives us all pause. Win or lose, there is always things to learn from this experience, and this post lays that out. 
 
