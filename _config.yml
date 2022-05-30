@@ -48,4 +48,4 @@ prose:
         field:
           element: "text"
           label: "Background Image"
-          value: ""
+          value: "/assets/mainheader.png"
