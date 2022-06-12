@@ -1,11 +1,11 @@
 ---
-layout: post
-category: blog
 title: Facts on Administration and Board Salaries
 published: false
+layout: post
+category: blog
 categories:
-  - blog
-background: /assets/mainheader.png
+- blog
+background: "/assets/mainheader.png"
 ---
 
 One thing seen commonly as a question in both the [community survey](https://survey.onechippewa.org) as well as Facebook is about adminstration and school board salaries. This is an often cited as a question, such as "Why does the superintentent make so much?" or "Maybe the board should take a salary cut".
