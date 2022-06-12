@@ -49,3 +49,8 @@ prose:
           element: "text"
           label: "Background Image"
           value: "/assets/mainheader.png"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
