@@ -97,3 +97,5 @@ Overall, the Chippewa Local School District Superintendent salary is on the high
 If you add the salaries for all the adminstration leadership ( meaning Superintendent, Treasurer, and School Board members ), this would total $244,629, which would account for just under 2% of the annual budget. The salaries for these roles are generally inline with comparable roles in other area districts. Reductions in this area would have minimal impact on the overall budget.
 
 Have questions? Let us know at [feedback@onechippewa.org](mailto:feedback@onechippewa.org).
+
+![gxc.svg]({{site.baseurl}}/media/gxc.svg)
