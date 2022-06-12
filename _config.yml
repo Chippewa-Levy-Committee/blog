@@ -28,7 +28,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'https://onechippewa.org'
   relativeLinks: 'https://onechippewa.org/links.jsonp'
-  media: 'assets'
+  media: 'media'
   metadata:
     _posts:
       - name: "category"
@@ -49,8 +49,3 @@ prose:
           element: "text"
           label: "Background Image"
           value: "/assets/mainheader.png"
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Published"
-          value: false
