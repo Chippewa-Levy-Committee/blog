@@ -27,7 +27,6 @@ plugins:
 - jekyll-sitemap
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 prose:
-  rooturl: "/"
   siteurl: http://onechippewa.org
   ignore:
   - 404.md
