@@ -34,6 +34,14 @@ prose:
   - _config.yml
   - "/_layouts"
   - "/_includes"
+  - "/assets"
+  - "/posts"
+  - ".*"
+  - CNAME
+  - Gemfile
+  - README.md
+  - links.jsonp
+  - site.css
   relativeLinks: http://onechippewa.org/links.jsonp
   media: media
   metadata:
