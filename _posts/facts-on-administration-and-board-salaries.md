@@ -1,11 +1,11 @@
 ---
-title: Facts on Administration and Board Salaries
-published: false
 layout: post
 category: blog
+title: Facts on Administration and Board Salaries
+published: false
 categories:
-- blog
-background: "/assets/mainheader.png"
+  - blog
+background: /assets/mainheader.png
 ---
 
 One thing seen commonly as a question in both the [community survey](https://survey.onechippewa.org) as well as Facebook is about adminstration and school board salaries. This is an often cited as a question, such as "Why does the superintentent make so much?" or "Maybe the board should take a salary cut".
@@ -100,5 +100,3 @@ Overall, the Chippewa Local School District Superintendent salary is on the high
 If you add the salaries for all the adminstration leadership ( meaning Superintendent, Treasurer, and School Board members ), this would total $244,629, which would account for just under 2% of the annual budget. The salaries for these roles are generally inline with comparable roles in other area districts. Reductions in this area would have minimal impact on the overall budget.
 
 Have questions? Let us know at [feedback@onechippewa.org](mailto:feedback@onechippewa.org).
-
-![gxc.svg]({{site.baseurl}}/media/gxc.svg)
