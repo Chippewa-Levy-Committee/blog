@@ -1,3 +1,4 @@
+---
 title: "#OneChippewa"
 timezone: UTC
 collections:
@@ -29,49 +30,49 @@ prose:
   rooturl: "/"
   siteurl: http://onechippewa.org
   ignore:
-    - 404.md
-    - index.html
-    - _config.yml
-    - "/_layouts"
-    - "/_includes"
+  - 404.md
+  - index.html
+  - _config.yml
+  - "/_layouts"
+  - "/_includes"
   relativeLinks: http://onechippewa.org/links.jsonp
   media: media
   metadata:
     _posts:
-      - name: category
-        field:
-          element: hidden
-          value: blog
-      - name: layout
-        field:
-          element: hidden
-          value: post
-      - name: title
-        field:
-          element: text
-          label: Title
-          value: ''
-      - name: background
-        field:
-          element: text
-          label: Background Image
-          value: "/assets/mainheader.png"
+    - name: category
+      field:
+        element: hidden
+        value: blog
+    - name: layout
+      field:
+        element: hidden
+        value: post
+    - name: title
+      field:
+        element: text
+        label: Title
+        value: ''
+    - name: background
+      field:
+        element: text
+        label: Background Image
+        value: "/assets/mainheader.png"
     _drafts:
-      - name: category
-        field:
-          element: hidden
-          value: blog
-      - name: layout
-        field:
-          element: hidden
-          value: post
-      - name: title
-        field:
-          element: text
-          label: Title
-          value: ''
-      - name: background
-        field:
-          element: text
-          label: Background Image
-          value: "/assets/mainheader.png"
+    - name: category
+      field:
+        element: hidden
+        value: blog
+    - name: layout
+      field:
+        element: hidden
+        value: post
+    - name: title
+      field:
+        element: text
+        label: Title
+        value: ''
+    - name: background
+      field:
+        element: text
+        label: Background Image
+        value: "/assets/mainheader.png"
