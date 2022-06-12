@@ -26,8 +26,8 @@ remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 prose:
   rooturl: '_posts'
-  siteurl: 'https://onechippewa.org'
-  relativeLinks: 'https://onechippewa.org/links.jsonp'
+  siteurl: 'http://onechippewa.org'
+  relativeLinks: 'http://onechippewa.org/links.jsonp'
   media: 'media'
   metadata:
     _posts:
