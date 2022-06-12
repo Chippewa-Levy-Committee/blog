@@ -1,56 +1,58 @@
-title:              "#OneChippewa"
-email:              chippewalevy@gmail.com
-description:        "#OneChippewa is a service of the Chippewa Levy Committee that provides insights into the Chippewa Local School district"
-author:             "#OneChippewa"
-
-# Social Profiles
-twitter_username:   
-github_username:    
-facebook_username: OurFutureIsNow 
-instagram_username:  
-linkedin_username:
-
-# Add your google-analytics ID here to activate google analytics
-google_analytics:   G-J03SVQ1VXJ # out your google-analytics code
-
-# Build settings
-markdown:           kramdown
-paginate:           3
-paginate_path:      "/posts/page:num/"
+---
+title: "#OneChippewa"
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: chippewalevy@gmail.com
+description: "#OneChippewa is a service of the Chippewa Levy Committee that provides
+  insights into the Chippewa Local School district"
+author: "#OneChippewa"
+twitter_username: 
+github_username: 
+facebook_username: OurFutureIsNow
+instagram_username: 
+linkedin_username: 
+google_analytics: G-J03SVQ1VXJ
+markdown: kramdown
+paginate: 3
+paginate_path: "/posts/page:num/"
 plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
-
+- jekyll-feed
+- jekyll-paginate
+- jekyll-sitemap
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
-
 prose:
-  rooturl: '_posts'
-  siteurl: 'http://onechippewa.org'
-  ignore: 
-    - index.html
-    - _config.yml
-    - /_layouts
-    - /_includes
-  relativeLinks: 'http://onechippewa.org/links.jsonp'
-  media: 'media'
+  rooturl: _posts
+  siteurl: http://onechippewa.org
+  ignore:
+  - index.html
+  - _config.yml
+  - "/_layouts"
+  - "/_includes"
+  relativeLinks: http://onechippewa.org/links.jsonp
+  media: media
   metadata:
     _posts:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "background"
-        field:
-          element: "text"
-          label: "Background Image"
-          value: "/assets/mainheader.png"
+    - name: category
+      field:
+        element: hidden
+        value: blog
+    - name: layout
+      field:
+        element: hidden
+        value: post
+    - name: title
+      field:
+        element: text
+        label: Title
+        value: ''
+    - name: background
+      field:
+        element: text
+        label: Background Image
+        value: "/assets/mainheader.png"

@@ -1,10 +1,12 @@
 ---
-layout: post
-category: blog
-published: true
 title: Looking forward
-background: /assets/mainheader.png
+date: 2022-05-26 00:00:00 Z
+categories:
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
+
 As voters in the district are well aware, the school distruct did not pass either school levy. It's a hard pill to swallow for sure, but one that gives us all pause. Win or lose, there is always things to learn from this experience, and this post lays that out. 
 
 The first step in trying to assess what went right, what didn't go as well, and what we could do in the future ( many refer to this as the start/stop/continue matrix ). Shortly after the election, the levy committee did a post-mortem survey to try and understand with the smaller group on the execution and ways to improve. Here's what we learned.
