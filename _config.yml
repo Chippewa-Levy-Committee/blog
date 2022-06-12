@@ -28,7 +28,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'https://onechippewa.org'
   relativeLinks: 'https://onechippewa.org/links.jsonp'
-  media: 'media'
+  media: 'assets'
   metadata:
     _posts:
       - name: "category"
