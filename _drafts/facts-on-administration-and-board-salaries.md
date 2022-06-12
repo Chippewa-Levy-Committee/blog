@@ -1,10 +1,12 @@
 ---
-layout: post
-category: blog
-background: /assets/mainheader.png
-published: false
 title: Facts on Administration and Board Salaries
+date: 2022-06-11 00:00:00 Z
+categories:
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
+
 One thing seen commonly as a question in both the [community survey](https://survey.onechippewa.org) as well as Facebook is about adminstration and school board salaries. This is an often cited as a question, such as "Why does the superintentent make so much?" or "Maybe the board should take a salary cut".
 
 Let's look at each of the salaries seperately for School Board Members and Adminstration leadership.
