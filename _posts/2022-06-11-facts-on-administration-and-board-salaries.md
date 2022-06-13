@@ -8,15 +8,15 @@ layout: post
 background: "/assets/mainheader.png"
 ---
 
-One thing seen commonly as a question in both the [community survey](https://survey.onechippewa.org) as well as Facebook is about administration and school board salaries. This is often cited as a question, such as "Why does the superintendent make so much?" or "Maybe the board should take a salary cut".
+One thing seen commonly as a question in both the [community survey](https://survey.onechippewa.org) as well as Facebook is about administration and school board salaries. This is often cited as a question, such as "Why does the superintendent make so much?" or "Maybe the board should take a salary cut."
 
-Let's look at each of the salaries separately for School Board Members and Administration leadership.
+Let's look at the salaries separately for School Board Members and Administration leadership.
 
 ## School Board Member salaries
 
-There's a great document put out by [ohioschoolboards.org](https://www.ohioschoolboards.org/sites/default/files/OSBABoardCompensationFactSheet.pdf) which spells out the exact statutes that govern school board member salaries.
+There's a great document put out by [ohioschoolboards.org](https://www.ohioschoolboards.org/sites/default/files/OSBABoardCompensationFactSheet.pdf) that spells out the exact statutes governing school board member salaries.
 
-> Under the statute, board members may be compensated for their service up 
+> Under the statute, board members may be compensated up 
 to $125 per meeting (Ohio Revised Code Section (RC) 3313.12, 3311.19). Boards 
 are not required to pay the statutory maximum but may choose to compensate 
 at any rate up to the statutory maximum. The statute also provides that all 
@@ -25,7 +25,7 @@ receiving more than $5,000 per year in total compensation (RC 3313.12).
 
 So net-net, board members make $125 per official school board meeting. In [2021 there were 25 official school board meetings](http://www.chippewa.k12.oh.us/district/board-meeting-agendas-audio), so that would be $3,125 per school board member, and $15,625 in total compensation to the school board ( which accounts for [0.12% of the annual budget](http://www.chippewa.k12.oh.us/district/content-page/treasurer) )
 
-Often school board members will participate in a number of school activities, such as graduation, open houses, or other special events, and for each of these, there is no compensation. Similarly, school board members spend time communicating with district residents who reach out to them which is also not compensated for.
+School board members will often participate in several school activities, such as graduation, open houses, or other special events; for each, there is no compensation. Similarly, school board members spend time communicating with district residents who reach out to them, which is also not compensated for.
 
 ## Superintendent salary
 
@@ -55,17 +55,17 @@ Here is where that stands in comparison to other area Superintendents ( data sou
 | Norwayne                 | $103,193     |
 | Rittman                  | $103,180*    |
 
-Average salary is $121,285. Median salary is $119,514.
+The average salary is $121,285. The median salary is $119,514.
 
-_* Note that for Rittman, the superintendant is part time in this data working 1 day per week. The salary number shown takes the salary number posted ($25,795) and multiplies it by 5 to get a comperable number_
+_* Note that for Rittman, the superintendent is part-time in this data, working one day per week. The salary number shown takes the salary number posted ($25,795) and multiplies it by 5 to get a comparable number_
 
-Overall, the Chippewa Local School District Superintendent's salary is comparable to those districts in the immediate area, including districts within Wayne County. 
+Overall, the Chippewa Local School District Superintendent's salary is comparable to those in the immediate area, including districts within Wayne County. 
 
 ## Treasurer salary
 
-The current Chippewa Local School Superintendent, Ira Hamman, makes [$xxx annually on a contract from May 17, 2021 through July 31, 2024](http://www.chippewa.k12.oh.us/sites/chippewa.k12.oh.us/files/BOE%20Regular%20Agenda%20-%204-12-21%20Meeting.pdf). This salary accounts for [x% of the annual budget](http://www.chippewa.k12.oh.us/district/content-page/treasurer) )
+The current Chippewa Local School Superintendent, Ira Hamman, makes [$xxx annually on a contract from May 17, 2021, through July 31, 2024](http://www.chippewa.k12.oh.us/sites/chippewa.k12.oh.us/files/BOE%20Regular%20Agenda%20-%204-12-21%20Meeting.pdf). This salary accounts for [x% of the annual budget](http://www.chippewa.k12.oh.us/district/content-page/treasurer) )
 
-Here is where that stands in comparision to other area Treasurers ( data source is https://www.buckeyeinstitute.org/data/teacher_salary with data from 2019, with the salary for the current treasurer who is on a newer contract listed instead of that of the previous treasurer )...
+Here is where that stands in comparison to other area Treasurers ( data source is https://www.buckeyeinstitute.org/data/teacher_salary with data from 2019, with the salary for the current treasurer who is on a newer contract listed instead of that of the previous treasurer )...
 
 | District                 | Salary       |
 |--------------------------|--------------|
@@ -91,12 +91,12 @@ Here is where that stands in comparision to other area Treasurers ( data source 
 
 The average salary is $100,452. The median salary is $95,000.
 
-_* Note that for Rittman, the treasurer is part-time in this data working 1 day per week. The salary number shown takes the salary number posted ($20,178) and multiplies it by 5 to get a comparable number_
+_* Note that Rittman's treasurer is part-time in this data, working one day per week. The salary number shown takes the salary number posted ($20,178) and multiplies it by 5 to get a comparable number_
 
-Overall, the Chippewa Local School District Treasurer's salary is on the higher end compared to those districts in the immediate area, including districts within Wayne County. 
+Overall, the Chippewa Local School District Treasurer's salary is on the higher end than those in the immediate area, including districts within Wayne County. 
 
 ## Summary
 
-If you add the salaries for all the administration leadership ( meaning Superintendent, Treasurer, and School Board members ), this would total $244,629, which would account for just under 2% of the annual budget. The salaries for these roles are generally in line with comparable roles in other area districts. Reductions in this area would have minimal impact on the overall budget.
+If you add the salaries for all the administration leadership ( meaning Superintendent, Treasurer, and School Board members ), this will total $244,629, which would account for just under 2% of the annual budget. The salaries for these roles are generally in line with comparable positions in other districts. Reductions in this area would have minimal impact on the overall budget.
 
 Have questions? Let us know at [feedback@onechippewa.org](mailto:feedback@onechippewa.org).
