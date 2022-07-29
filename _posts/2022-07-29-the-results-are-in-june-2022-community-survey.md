@@ -1,7 +1,7 @@
 ---
 title: The Results are in! June 2022 Community Survey
 date: 2022-07-29 00:00:00 Z
-published: false
+published: true
 categories:
 - blog
 layout: post
