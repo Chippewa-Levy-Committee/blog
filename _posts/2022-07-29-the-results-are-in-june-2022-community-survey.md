@@ -1,12 +1,10 @@
 ---
-layout: post
-category: blog
 title: The Results are in! June 2022 Community Survey
-date: 2022-07-29
+date: 2022-07-29 00:00:00 Z
 categories:
-  - blog
-background: /assets/mainheader.png
-published: true
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
 
 We are pleased to share the results of the community survey done in June 2022 are in. We were grateful to have 229 respondants from across our district provide candid, insightful, and actionable feedback on both the community and the school district.
