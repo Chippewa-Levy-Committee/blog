@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: The Results are in! June 2022 Community Survey
-date: {}
+date: 2022-07-29
 categories:
   - blog
 background: /assets/mainheader.png
