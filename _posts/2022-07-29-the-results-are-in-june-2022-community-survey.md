@@ -32,14 +32,14 @@ Key insights and recommendations from the survey are:
 - Respondents value the teachers and staff and the educational excellence provided.
 - Leadership should continue to focus on the positive values and stories of the district and community
 
-You can review the [entire report](assets/2022-06-onechippewa-survey-analysis.pdf) and the [raw results](assets/2022-06-onechippewa-survey-raw-results.csv).
+You can review the [entire report](/assets/2022-06-onechippewa-survey-analysis.pdf) and the [raw results](/assets/2022-06-onechippewa-survey-raw-results.csv).
 
 ## Where do we go from here?
 
 Survey data such as this can be quite valuable for gaining insights, and it is our intention to do so as we help educate and connect with our community. As the Chippewa Levy Committee is working towards the fall campaign, look for a few things to come:
 
 - More videos and articles that better connect to our district residents.
-- Developing out the [Resources][resources] page to contain links to key materials often requested by district residents.
+- Developing out the [Resources][/resources] page to contain links to key materials often requested by district residents.
 - Telling and promoting the "good stories" of the district.
 
 Look for this website to have more of these to come!
