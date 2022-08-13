@@ -1,7 +1,7 @@
 ---
 title: 'TODD Talks - Episode 1: Meet Todd Osborn and discuss school funding'
 date: 2022-08-13 00:00:00 Z
-published: false
+published: true
 categories:
 - blog
 layout: post
