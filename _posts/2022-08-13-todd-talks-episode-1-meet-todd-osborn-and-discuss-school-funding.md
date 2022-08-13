@@ -1,10 +1,13 @@
 ---
-layout: post
-category: blog
-background: /assets/mainheader.png
-published: false
 title: 'TODD Talks - Episode 1: Meet Todd Osborn and discuss school funding'
+date: 2022-08-13 00:00:00 Z
+published: false
+categories:
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
+
 One of the big takeaways from our community survey was more information and transparency from our district leaders. As a step towards that, we are starting a new video short series called 'TODD Talks'.
 
 Each episode of TODD Talks will feature one of the adminstrators in the Chippewa Local School District, letting you learn a bit more about them and having them discuss a hot topic for our district residents.
