@@ -1,11 +1,12 @@
 ---
-title: Participate in football squares to support the Levy Committee
-date: 2022-08-24 00:00:00 Z
-published: false
-categories:
-- blog
 layout: post
-background: "/assets/mainheader.png"
+category: blog
+title: Participate in football squares to support the Levy Committee
+date: {}
+published: true
+categories:
+  - blog
+background: /assets/mainheader.png
 ---
 
 We are doing a football squares fundraiser this fall to support the Chippewa Levy Committee. We will be doing football squares for three upcoming games...
