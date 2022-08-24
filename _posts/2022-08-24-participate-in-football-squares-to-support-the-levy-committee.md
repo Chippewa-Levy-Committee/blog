@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Participate in football squares to support the Levy Committee
-date: {}
+date: 2022-08-24T00:00:00.000Z
 categories:
   - blog
 background: /assets/mainheader.png
