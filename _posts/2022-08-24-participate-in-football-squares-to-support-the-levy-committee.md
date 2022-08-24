@@ -1,10 +1,13 @@
 ---
-layout: post
-category: blog
-background: /assets/mainheader.png
-published: false
 title: Participate in football squares to support the Levy Committee
+date: 2022-08-24 00:00:00 Z
+published: false
+categories:
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
+
 We are doing a football squares fundraiser this fall to support the Chippewa Levy Committee. We will be doing football squares for three upcoming games...
 
 - [Ohio State vs Notre Dame - September 3rd](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTdr9uGXG23hv1WcNKPhPp1m31732FPy8Oq4ye7nEBKkSTL-rcvtj-GPnd0qlLvo8DJewvyfcEvk_EX/pubhtml?gid=0&single=true)
