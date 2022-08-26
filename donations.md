@@ -1,6 +1,6 @@
 Help support the Chippewa Levy Committee by making a donation. Donations are used to fund yard signs, promotional materials, and other things to help make the levy campaign a success for our district for the benefit our students, staff, and community as a whole.
 
-We accept donations using Paypal, Venmo, or Zelle.
+We accept donations using [PayPal](https://PayPal.Me/onechippewa), Venmo, or Zelle.
 
 
 
