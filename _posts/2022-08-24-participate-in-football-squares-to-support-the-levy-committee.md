@@ -20,6 +20,6 @@ Squares are $10 each, with payouts for each quarter:
 - $100 for the third quarter
 - $125 for the final score
 
-You can buy squares using our [donations](donate) page, making a note in the description how many squares you wish to purchase and for which games; you can also specify specific squares which we will make a best effort of accomodiating. Deadline for sales of squares is 24 hours before gametime, and we will randomize the numbers shortly thereafter.
+You can buy squares using our [donations](/donate) page, making a note in the description how many squares you wish to purchase and for which games; you can also specify specific squares which we will make a best effort of accomodiating. Deadline for sales of squares is 24 hours before gametime, and we will randomize the numbers shortly thereafter.
 
 If you have any questions - feel free to [contact us](mailto:chippewalevy@gmail.com). Thank you again for your support!
