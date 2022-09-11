@@ -1,15 +1,15 @@
 Help support the Chippewa Levy Committee by making a donation. Donations are used to fund yard signs, promotional materials, and other things to help make the levy campaign a success for our district for the benefit our students, staff, and community as a whole.
 
 <div id="smart-button-container">
-    <div style="text-align: center"><label for="description">Your Name </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
+    <div style="text-align: center"><label for="description" style="margin-right: 1em">Your Name </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
       <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>
-    <div style="text-align: center"><label for="amount">Donation Amount </label><input name="amountInput" type="number" id="amount" value="" ><span> USD</span></div>
+    <div style="text-align: center"><label for="amount" style="margin-right: 1em">Donation Amount </label><input name="amountInput" type="number" id="amount" value="" ><span> USD</span></div>
       <p id="priceLabelError" style="visibility: hidden; color:red; text-align: center;">Please enter a price</p>
     <div id="invoiceidDiv" style="text-align: center; display: none;"><label for="invoiceid"> </label><input name="invoiceid" maxlength="127" type="text" id="invoiceid" value="" ></div>
       <p id="invoiceidError" style="visibility: hidden; color:red; text-align: center;">Please enter an Invoice ID</p>
     <div style="text-align: center; margin-top: 0.625rem;" id="paypal-button-container"></div>
   </div>
-  <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
+  <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
   <script>
   function initPayPalButton() {
     var description = document.querySelector('#smart-button-container #description');
