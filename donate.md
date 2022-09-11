@@ -1,7 +1,7 @@
 Help support the Chippewa Levy Committee by making a donation. Donations are used to fund yard signs, promotional materials, and other things to help make the levy campaign a success for our district for the benefit our students, staff, and community as a whole.
 
 <div id="donate-button-container">
-<div id="donate-button"></div>
+<div id="donate-button" style="text-align: center;"></div>
 <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
 <script>
 PayPal.Donation.Button({
@@ -15,7 +15,3 @@ title:'PayPal - The safer, easier way to pay online!',
 }).render('#donate-button');
 </script>
 </div>
-
-Thank you to the following individuals and businesses who have provides finaical or in-kind donations.
-
-
