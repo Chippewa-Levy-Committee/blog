@@ -1,0 +1,14 @@
+---
+layout: post
+category: blog
+background: /assets/mainheader.png
+published: false
+title: 'TODD Talks - Episode 1: Todd Osborn discusses the district''s strategic plan'
+---
+We are back with our second episode of TODD Talks, where we sit down with Chippewa Local Schools superintentent Todd Osborn to talk about the district's strategic plan. 
+
+Todd in this episode talks about the history of the strategic plan, it's high level goals, and some of the accomplishments along the way. He speaks further on how the district has used grant funding in many cases to achieve some of the goals in the plan, including around school security and have 1-1 Chromebooks available for our secondary school students.
+
+
+
+Check out the video below, and visit our YouTube page for the full playlist of videos in the series. You can read more in detail about the strategic plan on the [district website](http://www.chippewa.k12.oh.us/district/strategic-plan)
