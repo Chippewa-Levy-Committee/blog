@@ -1,11 +1,12 @@
 ---
-title: Relating the latest School Report Cards with funding
-date: 2022-09-24 00:00:00 Z
-published: false
-categories:
-- blog
 layout: post
-background: "/assets/mainheader.png"
+category: blog
+title: Relating the latest School Report Cards with funding
+date: {}
+published: true
+categories:
+  - blog
+background: /assets/mainheader.png
 ---
 
 I'm sure by now you've seen the latest results from the Ohio School Report Cards, where Chippewa Local Schools once again has acceled as a top school district in the county. In fact, Chippewa Local Schools was the only school district in Wayne County scoring a '5' in Achievement, Gap Closing, and Graduation. The chart below showcases how Chippewa fared compared to the other districts in Wayne County.
