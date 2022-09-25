@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Relating the latest School Report Cards with funding
-date: {}
+date: 2022-09-24T00:00:00.000Z
 categories:
   - blog
 background: /assets/mainheader.png
