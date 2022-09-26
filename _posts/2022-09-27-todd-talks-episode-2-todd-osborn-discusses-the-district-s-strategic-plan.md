@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'TODD Talks - Episode 2: Todd Osborn discusses the district''s strategic plan'
-date: {}
+date: 2022-09-17
 published: false
 categories:
   - blog
