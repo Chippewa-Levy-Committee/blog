@@ -1,12 +1,12 @@
 ---
-layout: post
-date: 2022-09-25T00:00:00.000Z
-categories:
-  - blog
-background: /assets/mainheader.png
-published: true
 title: Come to our first Levy Informational Public Meeting on October 11th
+date: 2022-09-25 00:00:00 Z
+categories:
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
+
 As we are getting closer to election day, we will be holding two public meetings to help our district residents better understand how the 1% School District Income Tax impacts our schools, students, and community.
 
 The first of the two public meetings will be held on **Tuesday, October 11th, 2022 at 6:30 pm in the Chippewa JR/SR High School auditorium**. We will do a presentation on the levy and it's impact, and then answer questions from attendees.

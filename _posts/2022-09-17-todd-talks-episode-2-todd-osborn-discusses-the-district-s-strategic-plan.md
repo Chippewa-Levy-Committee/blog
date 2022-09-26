@@ -1,12 +1,11 @@
 ---
-layout: post
-category: blog
 title: 'TODD Talks - Episode 2: Todd Osborn discusses the district''s strategic plan'
-date: 2022-09-17
+date: 2022-09-17 00:00:00 Z
 published: false
 categories:
-  - blog
-background: /assets/mainheader.png
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
 
 We are back with our second episode of TODD Talks, where we sit down with Chippewa Local Schools superintentent Todd Osborn to talk about the district's strategic plan. 
