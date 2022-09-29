@@ -14,7 +14,7 @@ _Image taken from https://www.youtube.com/watch?v=WKPnHZ9F6ls_
 
 Only problem was - the field was in such poor condition that the OHSAA wouldn't let them play that game on their home field, so they had to play the first playoff game for them in decades in Wooster instead.
 
-Our girls and boys soccer teams have had similar issues over the years - robbing our student-athletes the opportunity to play in games in front of thier community at of the stadium they called home, that no doubt have had impacts on thier lives on and off the field.
+Our girls and boys soccer teams have had similar issues over the years - robbing our student-athletes the opportunity to play in games in front of thier community at the stadium they called home, that no doubt have had impacts on thier lives on and off the field.
 
 ![75125118_2741637695866765_8329246690066300928_n.jpeg]({{site.baseurl}}/media/75125118_2741637695866765_8329246690066300928_n.jpeg)
 
