@@ -20,4 +20,4 @@ Our girls and boys soccer teams have had similar issues over the years - robbing
 
 _Image courtsey of: https://www.facebook.com/TheVascoGroup_
 
-As many of us in Doylestown plan today to the head to the stadium that has been part of our community for generations, I implore all of you to look at the turf field and be proud. Proud that as a district and community, we have made the wise investment to showcase the pride we have of our student-athletes,  our marching band, and our community for generations to come.
+As many of us in Doylestown plan today to the head to the stadium that has been part of our community for generations, I urge all of you to look at the turf field and be proud. Proud that as a district and community, we have made the wise investment to showcase the pride we not only have into our student-athletes, but also as facility that is used for community youth programs, our marching band, our "Reading Under the Lights" literacy program, and our entire community year round.
