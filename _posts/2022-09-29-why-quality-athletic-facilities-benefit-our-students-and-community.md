@@ -1,9 +1,11 @@
 ---
-layout: post
-category: blog
-background: /assets/mainheader.png
-published: false
 title: Why quality athletic facilities benefit our students and community
+date: 2022-09-29 00:00:00 Z
+published: false
+categories:
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
 
 In 1999, the Chippewa Chipps football team ended a 29 year drought and won the WCAL title. The work those student-athletes did with long practice hours and mental and physical prepartion was intense, but the payoff was that title and the opportunity to host a home playoff football game versus Martins Ferry.
