@@ -12,7 +12,7 @@ In 1999, the Chippewa Chipps football team ended a 29 year drought and won the W
 ![Screen Shot 2022-09-29 at 7.50.51 AM.png]({{site.baseurl}}/media/Screen Shot 2022-09-29 at 7.50.51 AM.png)
 _Image taken from https://www.youtube.com/watch?v=WKPnHZ9F6ls_
 
-Only problem was - the field was in such poor condition and the OHSAA wouldn't let them play that game on their home field, so they had to play the first playoff game for them in decades in Wooster instead.
+Only problem was - the field was in such poor condition that the OHSAA wouldn't let them play that game on their home field, so they had to play the first playoff game for them in decades in Wooster instead.
 
 Our girls and boys soccer teams have had similar issues over the years - robbing our student-athletes the opportunity to play in games in from of thier community at of the stadium they called home, that no doubt have had impacts on thier lives on and off the field.
 
