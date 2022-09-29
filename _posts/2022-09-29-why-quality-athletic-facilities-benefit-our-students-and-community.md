@@ -1,10 +1,12 @@
 ---
-title: Why quality athletic facilities benefit our students and community
-date: 2022-09-29 00:00:00 Z
-categories:
-- blog
 layout: post
-background: "/assets/mainheader.png"
+category: blog
+title: Why quality athletic facilities benefit our students and community
+date: {}
+categories:
+  - blog
+background: /assets/mainheader.png
+published: true
 ---
 
 In 1999, the Chippewa Chipps football team ended a 29 year drought and won the WCAL title. The work those student-athletes did with long practice hours and mental and physical prepartion was intense, but the payoff was that title and the opportunity to host a home playoff football game versus Martins Ferry.
@@ -14,7 +16,7 @@ _Image taken from https://www.youtube.com/watch?v=WKPnHZ9F6ls_
 
 Only problem was - the field was in such poor condition and the OHSAA wouldn't let them play that game on their home field, so they had to play the first playoff game for them in decades in Wooster instead.
 
-Our girls and boys soccer teams have had similar issues over the years - robbing our student-athletes the opportunity to play in games in from of thier community outside of the stadium they called home, that no doubt have had impacts on thier lives on and off the field.
+Our girls and boys soccer teams have had similar issues over the years - robbing our student-athletes the opportunity to play in games in from of thier community at of the stadium they called home, that no doubt have had impacts on thier lives on and off the field.
 
 ![75125118_2741637695866765_8329246690066300928_n.jpeg]({{site.baseurl}}/media/75125118_2741637695866765_8329246690066300928_n.jpeg)
 _Image courtsey of: https://www.facebook.com/TheVascoGroup_
