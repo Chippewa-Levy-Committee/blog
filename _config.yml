@@ -42,9 +42,7 @@ prose:
   - README.md
   - links.jsonp
   - site.css
-  relativeLinks: http://onechippewa.org/links.jsonp
   media: media
-  rooturl: _posts
   metadata:
     _posts:
     - name: category
