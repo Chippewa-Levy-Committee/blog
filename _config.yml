@@ -43,7 +43,7 @@ prose:
   - links.jsonp
   - site.css
   media: media
-  relativeLinks: 'https://onechippewa.org/links.jsonp'
+  relativeLinks: https://onechippewa.org/links.jsonp
   metadata:
     _posts:
     - name: category
