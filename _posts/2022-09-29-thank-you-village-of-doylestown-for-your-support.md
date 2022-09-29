@@ -1,7 +1,7 @@
 ---
 title: Thank you Village of Doylestown for your support
 date: 2022-09-29 00:00:00 Z
-published: false
+published: true
 categories:
 - blog
 layout: post
