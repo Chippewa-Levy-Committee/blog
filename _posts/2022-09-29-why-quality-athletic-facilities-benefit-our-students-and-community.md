@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Why quality athletic facilities benefit our students and community
-date: {}
+date: 2022-09-29T00:00:00.000Z
 categories:
   - blog
 background: /assets/mainheader.png
