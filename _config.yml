@@ -27,7 +27,7 @@ plugins:
 - jekyll-sitemap
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 prose:
-  siteurl: 'http://onechippewa.org'
+  siteurl: http://onechippewa.org
   ignore:
   - 404.md
   - index.html
@@ -43,8 +43,8 @@ prose:
   - links.jsonp
   - site.css
   relativeLinks: http://onechippewa.org/links.jsonp
-  media: 'media'
-  rooturl: '_posts'
+  media: media
+  rooturl: _posts
   metadata:
     _posts:
     - name: category
