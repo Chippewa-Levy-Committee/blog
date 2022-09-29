@@ -2,7 +2,7 @@
 ---
 
 callback([
-{{ assign allposts = site.posts | sort: title }}
+{% assign allposts = site.posts | sort: title %}
 {% for post in allposts reversed %}
   {
     "text": "{{post.title | replace:'"','\"'}}",
