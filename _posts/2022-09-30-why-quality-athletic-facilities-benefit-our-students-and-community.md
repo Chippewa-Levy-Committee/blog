@@ -18,6 +18,6 @@ Our girls and boys soccer teams have had similar issues over the years - robbing
 
 ![75125118_2741637695866765_8329246690066300928_n.jpeg]({{site.baseurl}}/media/75125118_2741637695866765_8329246690066300928_n.jpeg)
 
-_Image courtsey of: https://www.facebook.com/TheVascoGroup_
+_Image courtesy of: https://www.facebook.com/TheVascoGroup_
 
 As many of us in Doylestown plan today to the head to the stadium that has been part of our community for generations, I urge all of you to look at the turf field and be proud. Proud that as a district and community, we have made the wise investment to showcase the pride we not only have into our student-athletes, but also as facility that is used for community youth programs, our marching band, our "Reading Under the Lights" literacy program, and our entire community year round.
