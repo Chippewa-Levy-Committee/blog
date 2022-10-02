@@ -7,7 +7,7 @@ layout: post
 background: "/assets/mainheader.png"
 ---
 
-Thousands of students have passed through the halls of our school buildings, starting thier lives impacted by dedicated staff and teachers past and present. Chippewa for many of them wasn't a blip on the radar, but a catapult to thier future that has helped them become who they are.
+Thousands of students have passed through the halls of our school buildings, starting their lives impacted by dedicated staff and teachers past and present. Chippewa for many of them wasn't a blip on the radar, but a catapult to their future that has helped them become who they are.
 
 We've captured some of these testimonials ( big thanks to Ken Gasser ) which we invite you to watch and see how Chippewa has impacted these alumus lives. These stories tell you first hand how the investment our community has made into it's schools has paid divedends not only in thier lives, but lives of those around them.
 
