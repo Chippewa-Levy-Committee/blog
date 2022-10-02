@@ -1,14 +1,15 @@
 ---
-title: What has Chippewa meant to it's alumni? Check out these videos
-date: 2022-09-30 00:00:00 Z
-published: false
-categories:
-- blog
 layout: post
-background: "/assets/mainheader.png"
+category: blog
+title: What has Chippewa meant to its alumni? Check out these videos
+date: {}
+published: true
+categories:
+  - blog
+background: /assets/mainheader.png
 ---
 
-Hundreds of thousands of students have passed through the halls of our school buildings, starting thier lives impacted by dedicated staff and teachers past and present. Chippewa for many of them wasn't a blip on the radar, but a catapult to thier future that has helped them become who they are.
+Thousands of students have passed through the halls of our school buildings, starting thier lives impacted by dedicated staff and teachers past and present. Chippewa for many of them wasn't a blip on the radar, but a catapult to thier future that has helped them become who they are.
 
 We've captured some of these testimonials ( big thanks to Ken Gasser ) which we invite you to watch and see how Chippewa has impacted these alumus lives. These stories tell you first hand how the investment our community has made into it's schools has paid divedends not only in thier lives, but lives of those around them.
 
