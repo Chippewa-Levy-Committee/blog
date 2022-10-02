@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: What has Chippewa meant to its alumni? Check out these videos
-date: {}
+date: 2022-10-03
 published: true
 categories:
   - blog
