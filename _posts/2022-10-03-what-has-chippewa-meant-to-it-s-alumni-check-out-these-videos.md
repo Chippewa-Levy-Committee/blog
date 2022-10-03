@@ -5,6 +5,7 @@ categories:
 - blog
 layout: post
 background: "/assets/mainheader.png"
+published: true
 ---
 
 Thousands of students have passed through the halls of our school buildings, starting their lives impacted by dedicated staff and teachers past and present. Chippewa for many of them wasn't a blip on the radar, but a catapult to their future that has helped them become who they are.
