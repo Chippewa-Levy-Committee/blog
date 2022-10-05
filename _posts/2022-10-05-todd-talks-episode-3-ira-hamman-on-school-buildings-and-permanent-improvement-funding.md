@@ -2,7 +2,6 @@
 title: 'TODD Talks - Episode 3: Ira Hamman on school buildings and permanent improvement
   funding'
 date: 2022-10-05 00:00:00 Z
-published: true
 categories:
 - blog
 layout: post
