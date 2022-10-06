@@ -1,7 +1,7 @@
 ---
 title: When we come together, we all benefit - a look at "Reading Under the Lights"
 date: 2022-10-06 00:00:00 Z
-published: false
+published: true
 categories:
 - blog
 layout: post
