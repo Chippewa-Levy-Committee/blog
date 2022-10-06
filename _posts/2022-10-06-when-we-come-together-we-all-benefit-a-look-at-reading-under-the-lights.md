@@ -13,6 +13,8 @@ The answer lies in events such as "Reading Under the Lights", which happened las
 
 ![IMG_5280 Large.jpeg]({{site.baseurl}}/media/IMG_5280 Large.jpeg) 
 
-Making events like this possible is the support of our district residents thru the 1% School District Income Tax, which is up for renewal on November 8th. We already are a district that does more with less, having the lowest operating costs per pupil yet highest academic achievement in Wayne County; renewing this levy means continuing that investment so that the students who attended last night can grow up to become those students reading to the generation coming up next.
+Making events like this possible is thanks to the support of our district residents through the 1% School District Income Tax, which is up for renewal on November 8th. We already are a district that does more with less, having the lowest operating costs per pupil yet highest academic achievement in Wayne County; renewing this levy means continuing that investment so that the students who attended last night can grow up to become those students reading to the generation coming up next.
 
 ![IMG_5297 Large.jpeg]({{site.baseurl}}/media/IMG_5297 Large.jpeg)
+
+Learn more about this levy and it's impacts at our [public meeting on October 11th](/blog/2022/09/25/come-to-our-first-levy-informational-public-meeting-on-october-11th.html).
