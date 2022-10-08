@@ -1,9 +1,11 @@
 ---
-layout: post
-category: blog
-background: /assets/mainheader.png
-published: false
 title: A deeper look at the financial comparisons
+date: 2022-10-08 00:00:00 Z
+published: false
+categories:
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
 
 As we are all heading into uncertain economic times, there is a tendency to do "belt tightening" to manage the short-term. I came across an [article on the short-term negative impact of failed school levies](https://sunnysideofcbus.com/2018/04/23/how-failed-school-levies-affect-property-value/), which reinforced the need to continue funding schools. But to be fair, many in our district don't see how low cost that investment is to each of us as district residents. So let's take a look at some fact and figures.
