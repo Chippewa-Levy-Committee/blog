@@ -1,11 +1,12 @@
 ---
-title: A deeper look at the financial comparisons
-date: 2022-10-08 00:00:00 Z
-published: false
-categories:
-- blog
 layout: post
-background: "/assets/mainheader.png"
+category: blog
+title: A deeper look at the financial comparisons
+date: {}
+published: true
+categories:
+  - blog
+background: /assets/mainheader.png
 ---
 
 As we are all heading into uncertain economic times, there is a tendency to do "belt tightening" to manage the short-term. I came across an [article on the short-term negative impact of failed school levies](https://sunnysideofcbus.com/2018/04/23/how-failed-school-levies-affect-property-value/), which reinforced the need to continue funding schools. But to be fair, many in our district don't see how low cost that investment is to each of us as district residents. So let's take a look at some fact and figures.
@@ -65,4 +66,3 @@ For retirees, this number is much more favorable. Looking at a household with a 
 The distirct is the most economical to support for any retiree to support as Chippewa has the lowest millage rate of any county school and since only earned income is taxed. It also points out the tax burden created by the School District Income Tax monthly for household with a $66,750 median income - only $55 per month.
 
 Our district has been fortunate to have the investment of the community and has been responsible with it's spending as a result, even reducing millage in past years. The district has used this investment and made Chippewa a top school in Wayne County, Ohio, and the nation overall. Vote "YES" on November 8th to show your support for ensuring our schools remaining the shining star and something other districts look to as an example of success.
-
