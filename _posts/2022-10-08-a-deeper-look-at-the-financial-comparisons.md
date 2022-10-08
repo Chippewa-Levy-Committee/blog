@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: A deeper look at the financial comparisons
-date: {}
+date: 2022-10-08T00:00:00.000Z
 published: true
 categories:
   - blog
