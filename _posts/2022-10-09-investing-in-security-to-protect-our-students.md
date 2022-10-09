@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Investing in security to protect our students
-date: {}
+date: 2022-10-09T00:00:00.000Z
 published: true
 categories:
   - blog
