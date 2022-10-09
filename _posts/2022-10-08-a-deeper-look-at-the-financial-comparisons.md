@@ -9,9 +9,9 @@ background: "/assets/mainheader.png"
 
 As we are all heading into uncertain economic times, there is a tendency to do "belt tightening" to manage the short-term. I came across an [article on the short-term negative impact of failed school levies](https://sunnysideofcbus.com/2018/04/23/how-failed-school-levies-affect-property-value/), which reinforced the need to continue funding schools. But to be fair, many in our district don't see how low cost that investment is to each of us as district residents. So let's take a look at some fact and figures.
 
-First, let's look again at the 2021-2022 Expenditures Per Pupil, as reported on the 2022 Ohio School Report Cards. Total Number of Students in District is 1,223.
+First, let's look again at the 2021-2022 Expenditures Per Pupil, as reported on the 2022 Ohio School Report Cards.
 
-| District                                           | Expenditures |
+| District                                           | Expenditures Per Pupil |
 | -------------------------------------------------- | ------------ |
 | Southeast                                          | $13,403      |
 | Triway                                             | $12,616      |
@@ -26,8 +26,7 @@ First, let's look again at the 2021-2022 Expenditures Per Pupil, as reported on 
 
 To give a sense of comparision, in Ohio the average expenditure per pupil is $11,246, and in Wayne County it's slightly higher at $11,376. Not only is Chippewa spending the least amount of money per pupil in Wayne County, it's over 12% under the state and local average, and only 1 of 4 county schools that spend less than the state average.	
 
-If we look specifically on the funding brought in by the School District Income Tax which is up for renewal, it provides the school district about $2.2 million, or 15% of it's annual revenue. If the income tax would be non-renewed, this would lower our per pupil expenditures to approximately to $8,064. Not only would this be significantly lower than the state average and 
-the county average, but only [one school district in Ohio is that low](https://reportcard.education.ohio.gov/district/finance/049668), and they aren't in the top 20% in academic performance index.
+The funding brought in by the School District Income Tax, which is up for renewal, provides the school district about $2.2 million, or 15% of it’s annual revenue.  If the Income Tax were not to be renewed, the loss of income from our district of 1,223 students would reduce our per pupil expenditures to approximately $8,064. Not only would this be significantly lower than the state average and the county average, but only [one school district in Ohio is that low](https://reportcard.education.ohio.gov/district/finance/049668), and they aren't in the top 20% in academic performance index.
 
 Next is looking at the tax burden on each of us. If we look at a household with a district median household (earned) income of $66,750 ( based on the 2020 U.S. Census data ) and who own a home valued at $200,000, we see Chippewa at the bottom end of other county districts.
 
