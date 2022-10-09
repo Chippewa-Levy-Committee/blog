@@ -1,10 +1,13 @@
 ---
-layout: post
-category: blog
-background: /assets/mainheader.png
-published: false
 title: Investing in security to protect our students
+date: 2022-10-09 00:00:00 Z
+published: false
+categories:
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
+
 We were recently asked about the security investments made by the district, which are an aspect of today's school needs to ensure our students can learn in a safe environment. Chippewa has been investing in a number of school security upgrades as part of it's [strategic plan](/blog/2022/09/27/todd-talks-episode-2-todd-osborn-discusses-the-district-s-strategic-plan.html), using both general funds as well as being agreesive on obtaining grants and having donations from outside organizations.
 
 Here is a list of some of those investments in the past year:
