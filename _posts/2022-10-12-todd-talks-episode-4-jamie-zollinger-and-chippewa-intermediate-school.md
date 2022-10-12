@@ -1,7 +1,6 @@
 ---
 title: 'TODD Talks - Episode 4: Jamie Zollinger and Chippewa Intermediate School'
 date: 2022-10-12 00:00:00 Z
-published: true
 categories:
 - blog
 layout: post
