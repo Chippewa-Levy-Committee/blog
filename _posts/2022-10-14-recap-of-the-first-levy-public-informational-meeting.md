@@ -1,10 +1,13 @@
 ---
-layout: post
-category: blog
-background: /assets/mainheader.png
-published: false
 title: Recap of the first Levy Public Informational Meeting
+date: 2022-10-14 00:00:00 Z
+published: false
+categories:
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
+
 Thank you all who joined us in-person or virtually via Zoom or Facebook Live ( thanks to [Doylestown Thrive](https://www.facebook.com/DoylestownThrive) ). In case you missed it, catch the recording of the presentation on our [YouTube channel](https://youtu.be/sb-JhHpJL_k).
 
 We received a number of questions from our audience, which many of them we answered in-person and others we went back and did research to provide a clearer answer. Here is a list of those questions and the answers.
