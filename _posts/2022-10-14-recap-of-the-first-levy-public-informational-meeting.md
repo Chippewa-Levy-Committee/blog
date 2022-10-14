@@ -1,7 +1,7 @@
 ---
 title: Recap of the first Levy Public Informational Meeting
 date: 2022-10-14 00:00:00 Z
-published: false
+published: true
 categories:
 - blog
 layout: post
