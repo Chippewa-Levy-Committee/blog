@@ -2,7 +2,6 @@
 title: Come to the second Levy Informational Public Meeting and Community Dinner on
   November 2nd
 date: 2022-10-13 00:00:00 Z
-published: true
 categories:
 - blog
 layout: post
