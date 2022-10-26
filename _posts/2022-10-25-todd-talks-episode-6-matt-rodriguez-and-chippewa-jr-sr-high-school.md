@@ -1,10 +1,13 @@
 ---
-layout: post
-category: blog
-background: /assets/mainheader.png
-published: false
 title: 'TODD Talks - Episode 6: Matt Rodriguez and Chippewa JR/SR High School'
+date: 2022-10-25 00:00:00 Z
+published: false
+categories:
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
+
 Episode 5 of TODD Talks is here, where we talk to Chippewa JR/SR High School Principal Matt Rodriguez about his background, the new JR/SR High School building, opportunities available to our students, and the achievements he has seen in the district during his tenure.
 
 Check out the episode below, and check out all the episodes on our [YouTube page](https://www.youtube.com/playlist?list=PLw3SLzv82EP5K2CtraKpOq6XKhfKkdN14).
