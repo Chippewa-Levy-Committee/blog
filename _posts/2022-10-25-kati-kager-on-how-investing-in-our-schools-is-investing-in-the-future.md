@@ -1,7 +1,6 @@
 ---
 title: Kati Kager on how investing in our schools is investing in the future
 date: 2022-10-25 00:00:00 Z
-published: true
 categories:
 - blog
 layout: post
