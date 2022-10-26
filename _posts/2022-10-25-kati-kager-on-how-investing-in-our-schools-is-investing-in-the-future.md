@@ -7,7 +7,7 @@ layout: post
 background: "/assets/mainheader.png"
 ---
 
-Our latest testimontial video comes from Kati Kager - National Honor Society advisor. Kati speaks on the privledge she has to teach in this district, and how she believes that an investment in our schools by our community is an investment in our future. Check out the full biographies of all this year's NHS inductees on the [school's YouTube channel](https://youtu.be/xUISILxeswU).
+Our latest testimonial video comes from Kati Kager - National Honor Society advisor. Kati speaks on the privilege she has to teach in this district and how she believes that an investment in our schools by our community is an investment in our future. Check out the full biographies of all this year's NHS inductees on the [school's YouTube channel](https://youtu.be/xUISILxeswU).
 
 Check out the video below, and watch more testimontials on our [YouTube channel](https://youtube.com/playlist?list=PLw3SLzv82EP5vuMuLunDiSaYjV7s94c1i).
 
