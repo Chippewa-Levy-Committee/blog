@@ -1,10 +1,13 @@
 ---
-layout: post
-category: blog
-background: /assets/mainheader.png
-published: false
 title: How the turf was funded
+date: 2022-10-26 00:00:00 Z
+published: false
+categories:
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
+
 We've seen a fair amount of discussion around the turf that was installed in the stadium in the park that is owed by the Chippewa Local Schools and used by the Chippewa footbal and soccer teams, along with several other groups. We've done some research to help answer one of the key questions in district residents minds - how the turf was funded.
 
 ![ghows-OH-099a6400-0e3f-411f-b9d4-371be789dfce-977a3ff0.webp]({{site.baseurl}}/media/ghows-OH-099a6400-0e3f-411f-b9d4-371be789dfce-977a3ff0.webp)
