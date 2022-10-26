@@ -1,7 +1,7 @@
 ---
 title: 'TODD Talks - Episode 6: Matt Rodriguez and Chippewa JR/SR High School'
 date: 2022-10-26 00:00:00 Z
-published: false
+published: true
 categories:
 - blog
 layout: post
