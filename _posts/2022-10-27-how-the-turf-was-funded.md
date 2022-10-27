@@ -7,7 +7,7 @@ layout: post
 background: "/assets/mainheader.png"
 ---
 
-We’ve seen a fair amount of discussion regarding the turf that was installed at the stadium which is located within the Doylestown Memorial Park.  Chippewa Local Schools owns and is responsible for the stadium and its upkeep even though several other groups not related to the School utilize the field. We’ve done some research to help answer one of the key questions - how was the turf funded?!
+We’ve seen a fair amount of discussion regarding the turf that was installed at the stadium which is located within the Doylestown Memorial Park.  Chippewa Local Schools owns and is responsible for the stadium and its upkeep even though several other groups not related to the School utilize the field. We’ve done some research to help answer one of the key questions - how was the turf funded?
 
 ![75125118_2741637695866765_8329246690066300928_n.jpeg]({{site.baseurl}}/media/75125118_2741637695866765_8329246690066300928_n.jpeg)
 
