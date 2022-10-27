@@ -49,29 +49,13 @@ cost the district an additional \$200,000. Re-couping the cost
 difference isn't hard to see; let's look at the yearly upkeep costs for
 the grass field.
 
-+-----------------------------------+-----------------------------------+
-| Mowing                            | \$5,000                           |
-|                                   |                                   |
-| (Weekly May through October at    |                                   |
-| \$200 cost per mowing)            |                                   |
-+===================================+===================================+
-| Football game prep                | \$2,500                           |
-|                                   |                                   |
-| (Field lining and prep, \$500 per |                                   |
-| game, assumes five home games)    |                                   |
-+-----------------------------------+-----------------------------------+
-| Soccer game prep                  | \$10,000                          |
-|                                   |                                   |
-| (Field lining and prep, \$500 per |                                   |
-| game, assumes 20 home games)      |                                   |
-+-----------------------------------+-----------------------------------+
-| Other Repairs                     | \$5,000                           |
-|                                   |                                   |
-| (sod/reseeding, fertilizer, etc.) |                                   |
-+-----------------------------------+-----------------------------------+
-| **The total annual cost to        | **\$22,500**                      |
-| maintain**                        |                                   |
-+-----------------------------------+-----------------------------------+
+| | |
+|-----------------------------------|-----------------------------------|
+| Mowing (Weekly May through October at \$200 cost per mowing) | \$5,000 |
+| Football game prep (Field lining and prep, \$500 per game, assumes five home games) | \$2,500 |
+| Soccer game prep (Field lining and prep, \$500 per game, assumes 20 home games) | \$10,000  |
+| Other Repairs (sod/reseeding, fertilizer, etc.) | \$5,000 |
+| **The total annual cost to maintain** | **\$22,500** |
 
 Let's assume that our soccer and football teams have one game where a
 grass field would have to be relocated but a turf field would not,
