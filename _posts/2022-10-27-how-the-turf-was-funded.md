@@ -57,9 +57,9 @@ the grass field.
 | Other Repairs (sod/reseeding, fertilizer, etc.) | \$5,000 |
 | **The total annual cost to maintain** | **\$22,500** |
 
-Let's assume that our soccer and football teams have one game where a
-grass field would have to be relocated but a turf field would not,
-bringing the economic impact annually to \$25,500.
+Let's assume that our soccer and football teams have one game where they could not play on a
+grass field and would have to be relocated to a turf field. This would add an additional negative
+economic impact of \$3,000, bringing the overall economic impact annually to \$25,500.
 
 **It would take approximately eight years to recoup the investment.**
 Considering the lifespan of such fields is typically ten years or more,
