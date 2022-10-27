@@ -7,11 +7,7 @@ layout: post
 background: "/assets/mainheader.png"
 ---
 
-We've seen a fair amount of discussion around the turf that was
-installed in the stadium in the park that is owned by the Chippewa Local
-Schools and used by the Chippewa football and soccer teams, along with
-several other groups. We've researched to help answer one of the key
-questions in district residents\' minds - how the turf was funded.
+We’ve seen a fair amount of discussion regarding the turf that was installed at the stadium which is located within the Doylestown Memorial Park.  Chippewa Local Schools owns and is responsible for the stadium and its upkeep even though several other groups not related to the School utilize the field. We’ve done some research to help answer one of the key questions - how was the turf funded?![image](https://user-images.githubusercontent.com/296737/198391811-e1965413-6c9c-4399-88ff-948a6275166c.png)
 
 ![75125118_2741637695866765_8329246690066300928_n.jpeg]({{site.baseurl}}/media/75125118_2741637695866765_8329246690066300928_n.jpeg)
 
@@ -24,30 +20,13 @@ state in the mid-2010s. In short, it wasn't good. We saw in a previous
 post [that football and soccer tournament games dating back to the late
 1990s had to be moved to different
 facilities](file:////blog/2022/09/30/why-quality-athletic-facilities-benefit-our-students-and-community.html),
-which was an additional expense for the district and a loss of revenue.
-Suppose you combine the costs of field rental, transportation, and the
-loss of revenue. In that case, it's fair to say there was a negative
-economic impact of around \$3,000 for every event held at a different
-facility. With at least 20 events impacted, we are talking \$60,000 of
-total negative economic impact in total.
+as a result of the field’s poor condition.  This created additional expense for the district and a loss of revenue.  If  you combine the costs of field rental, transportation, and the loss of revenue.  It is reasonable to say there was a negative economic impact of around $3,000 for every event held at a different facility. With at least 20 events impacted, we are talking $60,000 of total negative economic impact to the district.
 
-Repairing the field so it could be used safely required a significant
-investment, as the drainage system underneath the field has completely
-failed. Because it had failed, it was damaging other areas of the park
-with the excess water runoff. Repair required a complete excavation,
-estimated at around \$500,000, including replanting the field with
-grass.
+Repairing the field so it could be used safely required a significant investment due to the completely deteriorated drainage system beneath the field. Because it had failed, it was damaging other areas of the park with the excess water runoff. Repair required a complete excavation estimated at around $500,000, including replanting the field with grass.
 
 ## Justifying the turf investment
 
-The district and community saw that even with the repairs, the facility
-would be unusable in the winter and early spring, where even a
-well-drained field would still be wet and prone to damage requiring
-re-sodding. Replacing the field with artificial turf, which the current
-technology is low maintenance and generally considered safer, only would
-cost the district an additional \$200,000. Re-couping the cost
-difference isn't hard to see; let's look at the yearly upkeep costs for
-the grass field.
+The district and community saw that even with the repairs the facility wouldn not be  usable in the winter and early spring as  even a well-drained field would still be wet and prone to damage requiring re-sodding.  To replace the field with artificial turf would provide lower annual maintenance and a generally considered safer playing field while costing the district an additional $200,000. Re-couping the cost difference isn’t hard to see; let’s look at the yearly upkeep costs for the grass field.
 
 | | |
 |-----------------------------------|-----------------------------------|
@@ -72,7 +51,7 @@ Club](https://www.the-daily-record.com/story/news/2019/06/13/chippewa-promoting-
 to be able to fund facility improvements from private donations. To
 date, the Chippewa Athletic Boosters have raised \$60,000, which has
 gone into projects such as repairs to the concession stand and ticket
-booth at the Doylestown Memorial Park Stadium, a backstop for the new
+booth at the Doylestown Memorial Park Stadium as well as a backstop for the new
 Softball field at the JR/SR High School. This doesn't account for time
 spent by volunteers or in-kind donations for the work invested into the
 facilities.
@@ -90,7 +69,7 @@ investments for the district.
 
 One thing not counted here is the impact on other programs and uses of a
 turf field vs. a grass field. Here's a small list of the programs that
-can use this field...
+tend to use this field...
 
 -   Chippewa Youth Football and Cheerleading
 -   "Reading under the Lights" annual literacy program
@@ -105,7 +84,7 @@ additional economic impact to the community.
 
 The district indeed paid for the field - in full - using funds from the
 general fund. It's also true that the district must fund all its
-facility upkeep, whether it has donations to subsidize those
+facility upkeep even if there are no donations to subsidize those
 investments. If one looks at the numbers presented, the district saw the
 field turf as a prudent investment considering the required repairs.
 
