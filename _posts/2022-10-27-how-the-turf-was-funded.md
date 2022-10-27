@@ -1,7 +1,6 @@
 ---
 title: How the turf was funded
 date: 2022-10-27 00:00:00 Z
-published: true
 categories:
 - blog
 layout: post
