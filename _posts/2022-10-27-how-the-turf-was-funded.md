@@ -13,7 +13,9 @@ Schools and used by the Chippewa football and soccer teams, along with
 several other groups. We've researched to help answer one of the key
 questions in district residents\' minds - how the turf was funded.
 
-![ghows-OH-099a6400-0e3f-411f-b9d4-371be789dfce-977a3ff0.webp]({{site.baseurl}}/media/ghows-OH-099a6400-0e3f-411f-b9d4-371be789dfce-977a3ff0.webp)
+![75125118_2741637695866765_8329246690066300928_n.jpeg]({{site.baseurl}}/media/75125118_2741637695866765_8329246690066300928_n.jpeg)
+
+_Image courtesy of: https://www.facebook.com/TheVascoGroup_
 
 ## State of the field before the turf
 
