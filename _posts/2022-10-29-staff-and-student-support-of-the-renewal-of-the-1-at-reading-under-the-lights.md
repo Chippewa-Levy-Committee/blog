@@ -1,7 +1,6 @@
 ---
 title: Staff and student support of the renewal of the 1% at "Reading under the lights"
 date: 2022-10-29 00:00:00 Z
-published: true
 categories:
 - blog
 layout: post
