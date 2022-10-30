@@ -2,7 +2,6 @@
 title: '"Letter: Support the Chippewa school tax issue as an investment in kids, community"
   - The Daily Record'
 date: 2022-10-30 00:00:00 Z
-published: true
 categories:
 - blog
 layout: post
