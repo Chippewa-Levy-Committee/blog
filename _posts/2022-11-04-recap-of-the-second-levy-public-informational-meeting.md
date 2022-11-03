@@ -1,11 +1,13 @@
 ---
-layout: post
-date: 2022-11-04
-category: blog
-background: /assets/mainheader.png
-published: false
 title: Recap of the second Levy Public Informational Meeting
+date: 2022-11-04 00:00:00 Z
+published: false
+categories:
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
+
 Thank you all who joined us in-person or virtually via Zoom or Facebook Live ( thanks to [Doylestown Thrive](https://www.facebook.com/DoylestownThrive) ). In case you missed it, catch the recording of the presentation on our [YouTube channel](https://youtu.be/kWhMV4DWNn0). 
 
 I want to give a big thanks to the staff, namely Ken Gasser, Carolyn Garbinsky, Beth Ogg, Caroline Cooper, and Rick McMerrell, for the many hours put into organizing this event. I also want to thank the over 30 volunteers and 5 panelists, all volunteering their time and money because they love and appreciate our community.
