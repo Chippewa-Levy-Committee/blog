@@ -1,12 +1,10 @@
 ---
-layout: post
-category: blog
 title: 1975 - when lack of community support closed our schools
-date: 2022-11-03
-published: true
+date: 2022-11-03 00:00:00 Z
 categories:
-  - blog
-background: /assets/mainheader.png
+- blog
+layout: post
+background: "/assets/mainheader.png"
 ---
 
 Many of you might not remember, but back in 1975, after a series of failed levies, the school district ran out of money. Teachers and staff had to head to the unemployment line, and the schools closed their doors. Below is a clipping from the Akron Beacon Journal showcasing one of the teachers, David Parfitt (many of you might know him from the nature area at CIS named Parfitt's Paradise).
