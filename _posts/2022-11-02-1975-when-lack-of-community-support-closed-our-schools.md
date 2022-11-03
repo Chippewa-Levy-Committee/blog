@@ -3,7 +3,7 @@ layout: post
 category: blog
 title: 1975 - when lack of community support closed our schools
 date: {}
-published: false
+published: true
 categories:
   - blog
 background: /assets/mainheader.png
