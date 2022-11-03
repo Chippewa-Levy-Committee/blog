@@ -1,7 +1,7 @@
 ---
 title: Recap of the second Levy Public Informational Meeting
 date: 2022-11-04 00:00:00 Z
-published: false
+published: true
 categories:
 - blog
 layout: post
@@ -10,7 +10,7 @@ background: "/assets/mainheader.png"
 
 Thank you to all who joined us in person or virtually via Zoom or Facebook Live ( thanks to [Doylestown Thrive](https://www.facebook.com/DoylestownThrive) ). In case you missed it, catch the recording of the presentation on our [YouTube channel](https://youtu.be/kWhMV4DWNn0). 
 
-
+![Untitled design copy.jpg]({{site.baseurl}}/media/Untitled%20design%20copy.jpg)
 
 I want to give a big thanks to the staff, namely Ken Gasser, Carolyn Garbinsky, Beth Ogg, Caroline Cooper, and Rick McMerrell, for the many hours put into organizing this community dinner for this evemt, along with the over 30 volunteers who prepared food, desserts, served food, and more.
 
