@@ -1,7 +1,6 @@
 ---
 title: Recap of the second Levy Public Informational Meeting
 date: 2022-11-04 00:00:00 Z
-published: true
 categories:
 - blog
 layout: post
