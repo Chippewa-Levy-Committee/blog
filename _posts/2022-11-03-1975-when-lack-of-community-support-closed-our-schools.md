@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 1975 - when lack of community support closed our schools
-date: {}
+date: 2022-11-03
 published: true
 categories:
   - blog
