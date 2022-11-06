@@ -1,6 +1,6 @@
 ---
 title: 'TODD Talks - Episode 8: Carl Dulin'
-date: 2022-11-05 00:00:00 Z
+date: 2022-11-06 00:00:00 Z
 categories:
 - blog
 layout: post
