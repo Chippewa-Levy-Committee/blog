@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 email: chippewalevy@gmail.com
-description: "#OneChippewa is a service of the Chippewa Levy Committee that provides
+description: "#OneChippewa is a service of the parents and residents of Doylestown that provides
   insights into the Chippewa Local School district"
 author: "#OneChippewa"
 twitter_username: 
@@ -25,7 +25,7 @@ plugins:
 - jekyll-feed
 - jekyll-paginate
 - jekyll-sitemap
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+theme: jekyll-theme-clean-blog
 prose:
   siteurl: http://onechippewa.org
   ignore:
