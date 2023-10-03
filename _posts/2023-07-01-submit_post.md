@@ -7,8 +7,6 @@ layout: post
 background: "/assets/mainheader.png"
 ---
 
-# Have something to share about Chippewa Local Schools? Let us know.
-
 #OneChippewa aims to serve the residents within the Chippewa Local Schools District, helping them understand the work being done and current issues the school district faces as it serves the students of our community. 
 
 One thing we have found is there is great work going on around the district which is less visible but still quite impactful. If you have news on this work, we want to know. Some good ideas of items that would be great for this site include:
